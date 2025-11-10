@@ -8,7 +8,7 @@ Este projeto tem como objetivo realizar uma **análise exploratória de dados (E
 - **Ethereum (ETH)**
 - **Binance Coin (BNB)**
 
-A análise utiliza dados históricos diários de preços obtidos pela **API pública da Binance**, referentes ao período de **01/01/2024 a 31/12/2024**.
+A análise utiliza dados históricos diários de preços obtidos pela **API pública da Binance**, referentes ao período de **01/05/2017 a 10/11/2025*.
 
 O foco desta primeira entrega é a **Análise Exploratória dos Dados (EDA)**, com a coleta, limpeza, estruturação e observação de padrões, tendências e correlações iniciais entre as variáveis.
 
@@ -38,9 +38,9 @@ Após a coleta, os dados passam por:
 - Conversão de timestamps para o formato de data (`datetime`);
 - Conversão das colunas numéricas (`open`, `high`, `low`, `close`, `volume`) para `float`;
 - Exportação dos dados limpos em arquivos `.csv`:
-  - `bitcoin_2024.csv`
-  - `ethereum_2024.csv`
-  - `bnb_2024.csv`
+  - `bitcoin_2025.csv`
+  - `ethereum_2025.csv`
+  - `bnb_2025.csv`
 
 ---
 
@@ -109,12 +109,12 @@ Modelos candidatos incluem:
 ## 👨‍💻 Integrantes do Grupo
 
 - **Murillo Weiss Kist**  
-- *(adicione os nomes dos outros integrantes aqui)*
+- **Jean Claudio de Barro**
 
 ---
 
 ## 🏫 Informações Acadêmicas
-**Disciplina:** Planejamento e Setup de Projeto  
-**Professor:** *(insira o nome do professor)*  
+**Disciplina:** MIneração de Dados  
+**Professor:** *Diogo Stelle*  
 **Entrega:** 12/11/2025  
-**Instituição:** *(nome da instituição)*  
+**Instituição:** *FAG*  
